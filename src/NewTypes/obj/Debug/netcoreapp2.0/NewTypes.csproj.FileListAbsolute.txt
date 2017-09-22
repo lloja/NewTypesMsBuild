@@ -1,0 +1,10 @@
+/projects/NewTypesMsBuild/src/NewTypes/bin/Debug/netcoreapp2.0/NewTypes.deps.json
+/projects/NewTypesMsBuild/src/NewTypes/bin/Debug/netcoreapp2.0/NewTypes.runtimeconfig.json
+/projects/NewTypesMsBuild/src/NewTypes/bin/Debug/netcoreapp2.0/NewTypes.runtimeconfig.dev.json
+/projects/NewTypesMsBuild/src/NewTypes/bin/Debug/netcoreapp2.0/NewTypes.dll
+/projects/NewTypesMsBuild/src/NewTypes/bin/Debug/netcoreapp2.0/NewTypes.pdb
+/projects/NewTypesMsBuild/src/NewTypes/obj/Debug/netcoreapp2.0/NewTypes.csproj.CoreCompileInputs.cache
+/projects/NewTypesMsBuild/src/NewTypes/obj/Debug/netcoreapp2.0/NewTypes.AssemblyInfoInputs.cache
+/projects/NewTypesMsBuild/src/NewTypes/obj/Debug/netcoreapp2.0/NewTypes.AssemblyInfo.cs
+/projects/NewTypesMsBuild/src/NewTypes/obj/Debug/netcoreapp2.0/NewTypes.dll
+/projects/NewTypesMsBuild/src/NewTypes/obj/Debug/netcoreapp2.0/NewTypes.pdb
